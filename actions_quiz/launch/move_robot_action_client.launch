@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="actions_quiz" type="move_robot_action_client.py" name="move_robot_action_client" output="screen" />
+</launch>
